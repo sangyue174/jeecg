@@ -6,7 +6,7 @@ JEECG 微云快速开发平台
 前言：
 -----------------------------------
 随着 WEB UI 框架 ( EasyUI/Jquery UI/Ext/DWZ) 等的逐渐成熟,系统界面逐渐实现统一化，代码生成器也可以生成统一规范的界面！
-代码生成+手工MERGE半智能开发将是新的趋势，单表数据模型和一对多数据模型的增删改查功能直接生成使用,可节省60%工作量，快速提高开发效率！！！
+代码生成+手工MERGE半智能开发将是新的趋势，单表数据模型和一对多数据模型的增删改查功能直接生成使用,可节省60%工作量，快速提高开发效率！！！ 
 
 
 简介
@@ -103,7 +103,7 @@ JEECG 功能特点
 
 JEECG云插件中心
 -----------------------------------
-* JEECG从V_3.6.3版本开始，采用插件开发模式，JEECG走简化轻量级路线，后续升级和功能模块，采用插件开发模式，进行集成。
+* JEECG从V_3.6.3版本开始 ，采用插件开发模式，JEECG走简化轻量级路线，后续升级和功能模块，采用插件开发模式，进行集成。
 * 更多插件下载地址：[http://yun.jeecg.org/](http://yun.jeecg.org)
 ![github](http://img.blog.csdn.net/20160623162220022?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeecg")
 
